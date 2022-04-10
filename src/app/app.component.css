@@ -1,0 +1,15 @@
+.pw-gen {
+  width: 400px;
+  box-shadow: 1px 1px 5px black;
+  padding: 25px;
+  margin: 25px auto;
+}
+
+.submitButton {
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  text-align: center;
+}
